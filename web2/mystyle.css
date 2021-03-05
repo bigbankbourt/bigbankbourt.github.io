@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+/* CSS  Document */
+
+body 
+               {
+                   background-color: papayawhip;
+                   
+                   margin-left: 150px;
+                   margin-right: 150px;
+                   margin-top: 150px;
+                   margin-bottom:150px;
+                   
+                   font-family: aladin;
+                   
+               } 
+               
+               h1
+               {
+                   font-size: 50px;
+                   font-family: aladin;
+				   background-color: #E0AE6E;
+				   text-align: center;
+				   color: white;
+    
+                   
+               }
+               
+               h2
+               {
+                   font-size: 25px;
+                   font-family: aladin;
+				   background-color: burlywood;
+				   text-align: center;
+    
+                   
+               }
+               
+               h3
+               {
+                   font-size: 20px;
+				   background-color: tan;
+				   text-align: center;
+    
+               }
+               
+               p
+               {
+				   
+                   font-size: 12px;  
+                   
+               }
+               
+
