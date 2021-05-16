@@ -1,0 +1,26 @@
+@charset "UTF-8";
+nav 
+{float: none;}
+        
+nav ul li 
+{list-style-type: none;
+ padding-left: 20px;
+ text-align: left;
+ display: block; }
+
+
+body
+{background-image: url("tracy-jaco-part-1.gif");
+ background-repeat: no-repeat, repeat;
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+ overflow: scroll;}
+
+h1 
+{text-align: center
+ }
+
+
+
+
